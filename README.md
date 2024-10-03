@@ -1,3 +1,13 @@
 # ***Gestor de contactos***
-Gestor de contactos para crear contactos y confirmar el guardado.
--
+Características:
+* Agregar contacto
+
+Archivos principales:
+* index.html: Estructura HTML de la aplicación.
+* app.js: Lógica de JavaScript para la funcionalidad
+
+Tecnologías
+* HTML
+* JavaScript
+
+Realizado por Angie Juliana Castaño y Juan David García
